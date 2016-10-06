@@ -1,0 +1,7 @@
+D:\Training\Pluralsight\OOP\demo\ACM\ACM\ACM.BL\bin\Debug\ACM.BL.dll
+D:\Training\Pluralsight\OOP\demo\ACM\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
+D:\Training\Pluralsight\OOP\demo\ACM\ACM\ACM.BL\obj\Debug\ACM.BL.dll
+D:\Training\Pluralsight\OOP\demo\ACM\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
+D:\Training\Pluralsight\OOP\demo\ACM\ACM\ACM.BL\obj\Debug\ACM.BL.csprojResolveAssemblyReference.cache
+D:\Training\Pluralsight\OOP\demo\ACM\ACM\ACM.BL\bin\Debug\Acme.Common.dll
+D:\Training\Pluralsight\OOP\demo\ACM\ACM\ACM.BL\bin\Debug\Acme.Common.pdb

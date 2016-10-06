@@ -1,0 +1,5 @@
+D:\Training\Pluralsight\OOP\demo\ACM\ACM\Acme.Common\bin\Debug\Acme.Common.dll
+D:\Training\Pluralsight\OOP\demo\ACM\ACM\Acme.Common\bin\Debug\Acme.Common.pdb
+D:\Training\Pluralsight\OOP\demo\ACM\ACM\Acme.Common\obj\Debug\Acme.Common.dll
+D:\Training\Pluralsight\OOP\demo\ACM\ACM\Acme.Common\obj\Debug\Acme.Common.pdb
+D:\Training\Pluralsight\OOP\demo\ACM\ACM\Acme.Common\obj\Debug\Acme.Common.csprojResolveAssemblyReference.cache
