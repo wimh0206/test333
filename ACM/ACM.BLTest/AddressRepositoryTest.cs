@@ -19,7 +19,7 @@ namespace ACM.BLTest
                 Country = "Vietnam",
                 PostCode = "221111",
                 State = "",
-                StreetLine1 = "Line1",
+                StreetLine1 = "Line1_rebase",
                 StreetLine2 = "Line2"
             };
             // Act
