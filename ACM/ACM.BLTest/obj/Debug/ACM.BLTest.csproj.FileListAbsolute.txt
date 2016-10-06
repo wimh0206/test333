@@ -7,3 +7,12 @@ D:\Training\Pluralsight\OOP\demo\ACM\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.dll
 D:\Training\Pluralsight\OOP\demo\ACM\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.pdb
 D:\Training\Pluralsight\OOP\demo\ACM\ACM\ACM.BLTest\bin\Debug\Acme.Common.dll
 D:\Training\Pluralsight\OOP\demo\ACM\ACM\ACM.BLTest\bin\Debug\Acme.Common.pdb
+D:\Training\testcode\ACM\ACM.BLTest\bin\Debug\ACM.BLTest.dll
+D:\Training\testcode\ACM\ACM.BLTest\bin\Debug\ACM.BLTest.pdb
+D:\Training\testcode\ACM\ACM.BLTest\bin\Debug\ACM.BL.dll
+D:\Training\testcode\ACM\ACM.BLTest\bin\Debug\Acme.Common.dll
+D:\Training\testcode\ACM\ACM.BLTest\bin\Debug\ACM.BL.pdb
+D:\Training\testcode\ACM\ACM.BLTest\bin\Debug\Acme.Common.pdb
+D:\Training\testcode\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.csprojResolveAssemblyReference.cache
+D:\Training\testcode\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.dll
+D:\Training\testcode\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.pdb
