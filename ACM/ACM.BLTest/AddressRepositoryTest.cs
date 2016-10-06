@@ -17,7 +17,7 @@ namespace ACM.BLTest
                 AddressType = 1,
                 City = "HCM",
                 Country = "Vietnam",
-                PostCode = "221",
+                PostCode = "221111",
                 State = "",
                 StreetLine1 = "Line1",
                 StreetLine2 = "Line2"
